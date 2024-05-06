@@ -10,6 +10,14 @@ obtengas sino completar todos los niveles antes de que el tiempo se termine
 
 
 --------------
+PLAY NOW 🔥 
+------------
+🔥 https://theflagame.zeabur.app/ 🔥 
+--------------
+/ PLAY NOW 
+------------
+
+--------------
 Instrucciones
 ------------
 
