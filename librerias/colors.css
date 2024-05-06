@@ -1,0 +1,130 @@
+/*
+   Name: BanderasQUIZ.
+  Copyright: A121.
+  Author: Alfredo S.
+  fecha: 12-10-16 Hora: 03:32am
+  Description: Indie
+  contacto: alfredgt682@gmail.com
+*/
+
+div#primero, div#segundo,div#tercero{
+	position: relative;
+	top: 10%;
+	margin: 1.5px;
+	padding: 30px;
+	background: black;
+	width: 50%;
+	border-radius: 10px; 
+	border: 2px solid teal;
+
+}
+div#contenedor img#img1{
+	position: relative;
+	bottom: 35%;
+	margin: 1.5px;
+	left: 72%;
+	width: 34%;
+	border-radius: 10px; 
+	visibility: hidden;
+
+}
+ div#contenedor img#img2{
+ 	position: relative;
+	bottom: 35%;
+	margin: 1.5px;
+	left: 35%;
+	width: 35%;
+	border-radius: 10px; 
+	visibility: hidden;
+ }
+
+ body {
+background: url(../flats/the_world.png);
+background-size: 100%;
+
+}
+
+div#contenedor{
+
+	position: relative;
+    padding: 30px;
+  
+    top: 50px;
+    width: 480px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div input{
+	 
+	font-size: 1.3em;
+	border-radius: 5px;
+
+}
+input#next{
+	position: relative;
+	bottom: 20%;
+	float: right;
+	font-size: 2em;
+	width: 35%;
+	background: teal;
+}
+input#level{
+	position: relative;
+	top: 20%;
+	font-size: 2em;
+	float: left;
+	width: 25%;
+	background: teal;
+}
+
+input#pais{
+	font-size: 1.3em;
+	width: 100%;
+	border-radius: 40px 0 40px;
+
+}
+
+input#time{
+	position: relative;
+	font-size: 2em;
+	bottom: 1%;
+	float: right;
+	width: 25%;
+	height: 12%;
+	background: teal;
+}
+input#score{
+	position: relative;
+	bottom: 20%;
+	float: left;
+	font-size: 2em;
+	width: 50%;
+	background: teal;
+}
+
+
+span.title{
+	background: rgba(0,0,255,0.7);
+	color: #FFFF00;
+	font-size: 1.2em;
+	border-radius: 5px;
+}
+span.title2{
+	background: rgba(255,0,0,0.7);
+	color: #000000;
+	font-size: 1.2em;
+	border-radius: 5px;
+}
+
+/*
+   Name: BanderasQUIZ.
+  Copyright: A121.
+  Author: Alfredo S.
+  fecha: 12-10-16 Hora: 03:32am
+  Description: Indie
+  contacto: alfredgt682@gmail.com
+*/
+
