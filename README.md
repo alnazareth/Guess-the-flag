@@ -12,7 +12,7 @@ obtengas sino completar todos los niveles antes de que el tiempo se termine
 --------------
 PLAY NOW 🔥 
 ------------
-🔥 https://theflagame.zeabur.app/ 🔥 
+🔥 (https://grand-moxie-8d6fbc.netlify.app/) 🔥 
 --------------
 / PLAY NOW 
 ------------
